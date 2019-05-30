@@ -1,9 +1,9 @@
 @media only screen and (max-width: 600px) {
+	.navbar-brand{
+		margin:0;
+	}
   header .header-top {
     font-size: 15px !important;
-  }
-  header .header-middle img {
-    width: 75px;
   }
 
   section header h1 {
